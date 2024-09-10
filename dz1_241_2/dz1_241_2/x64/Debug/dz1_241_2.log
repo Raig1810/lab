@@ -1,0 +1,8 @@
+﻿  Source.c
+C:\Users\RAIG\source\repos\dz1_241_2\Source.c(5,7): warning C4129: " ": нераспознанная escape-последовательность символов
+C:\Users\RAIG\source\repos\dz1_241_2\Source.c(7,7): warning C4129: " ": нераспознанная escape-последовательность символов
+C:\Users\RAIG\source\repos\dz1_241_2\Source.c(9,7): warning C4129: " ": нераспознанная escape-последовательность символов
+C:\Users\RAIG\source\repos\dz1_241_2\Source.c(10,7): warning C4129: " ": нераспознанная escape-последовательность символов
+C:\Users\RAIG\source\repos\dz1_241_2\Source.c(11,7): warning C4129: " ": нераспознанная escape-последовательность символов
+C:\Users\RAIG\source\repos\dz1_241_2\Source.c(14,7): warning C4129: "_": нераспознанная escape-последовательность символов
+  dz1_241_2.vcxproj -> C:\Users\RAIG\source\repos\dz1_241_2\x64\Debug\dz1_241_2.exe

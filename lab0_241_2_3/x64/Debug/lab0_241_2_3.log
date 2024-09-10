@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\RAIG\source\repos\lab0_241_2_3\Source.c(6,2): warning C4013: puts: нет определения; предполагается "extern" с возвратом типа "int"
+  lab0_241_2_3.vcxproj -> C:\Users\RAIG\source\repos\lab0_241_2\x64\Debug\lab0_241_2_3.exe
