@@ -1,0 +1,7 @@
+﻿  Source.c
+C:\Users\RAIG\source\repos\lab3_task3_241\Source.c(13,78): warning C4474: "printf" : для строки формата передано слишком много аргументов
+      C:\Users\RAIG\source\repos\lab3_task3_241\Source.c(13,78):
+      заполнители и их параметры ожидают переменное число аргументов в количестве 6, но было предоставлено 8
+  
+C:\Users\RAIG\source\repos\lab3_task3_241\Source.c(18,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  lab3_task3_241.vcxproj -> C:\Users\RAIG\source\repos\lab3_task3_241\x64\Debug\lab3_task3_241.exe
