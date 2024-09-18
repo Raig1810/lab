@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\RAIG\source\repos\hw3_2_241\Source.c(13,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\RAIG\source\repos\hw3_2_241\Source.c(5,34): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\RAIG\source\repos\hw3_2_241\Source.c(5,48): warning C4305: инициализация: усечение из "double" в "float"
+  hw3_2_241.vcxproj -> C:\Users\RAIG\source\repos\hw3_2_241\x64\Debug\hw3_2_241.exe
